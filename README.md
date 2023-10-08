@@ -1,4 +1,4 @@
-# binaries
-Склад бинарников
+# AAPT binaries
+Binary Warehouse
 
-Зеркало: https://maximoff.su/bin/
+Mirror: https://maximoff.su/bin/
